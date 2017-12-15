@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import PrestoRestart from './components/prestoRestart'
-import UserDetails from './containers/playerscontainer';
 import { Link } from 'react-router-dom'
 import {connect} from 'react-redux';
 import {selectUser} from './action/index';
